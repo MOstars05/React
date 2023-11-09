@@ -1,0 +1,7 @@
+body {
+    background: #eee !important;
+}
+.wrapper {
+    max-width: 1222px !important;
+    margin: 0 auto !important;
+}

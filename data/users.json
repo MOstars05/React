@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Odinaxon",
+      "lastName": "Ermamatova",
+      "email": "mostars@gmail.com",
+      "phoneNumber": "+998-91-121-01-46"
+    },
+    {
+      "id": 2,
+      "name": "Odinaxon",
+      "lastName": "Ermamatova",
+      "email": "mostars@gmail.com",
+      "phoneNumber": "+998-91-121-01-46"
+    },
+    {
+      "id": 3,
+      "name": "Odinaxon",
+      "lastName": "Ermamatova",
+      "email": "mostars@gmail.com",
+      "phoneNumber": "+998-91-121-01-46"
+    },
+    {
+      "id": 4,
+      "name": "Odinaxon",
+      "lastName": "Ermamatova",
+      "email": "mostars@gmail.com",
+      "phoneNumber": "+998-91-121-01-46"
+    },
+    {
+      "id": 5,
+      "name": "Odinaxon",
+      "lastName": "Ermamatova",
+      "email": "mostars@gmail.com",
+      "phoneNumber": "+998-91-121-01-46"
+    },
+    {
+      "name": "Muhammadali",
+      "lastName": "Anvarov",
+      "email": "modevco05@gmail.com",
+      "phoneNumber": "321596289",
+      "id": 6
+    }
+  ]
+}
